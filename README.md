@@ -1,2 +1,0 @@
-# wellness-massagen-kretschmer
-website
